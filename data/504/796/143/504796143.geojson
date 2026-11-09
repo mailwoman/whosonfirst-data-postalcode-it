@@ -12,7 +12,6 @@
     "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85685645,
         102191581,
         404466933,
         85633253,
@@ -32,8 +31,7 @@
             "localadmin_id":404466933,
             "locality_id":101754991,
             "macroregion_id":404227535,
-            "postalcode_id":504796143,
-            "region_id":85685645
+            "postalcode_id":504796143
         }
     ],
     "wof:id":504796143,
